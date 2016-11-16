@@ -5,7 +5,7 @@
 	require 'config.php';
 
 	$fb = new Facebook\Facebook([
-	  'app_id' => '1634633726829060',
+	  'app_id' => $appid,
 	  'app_secret' => $appsecret,
 	  'default_graph_version' => 'v2.5',
 	]);
