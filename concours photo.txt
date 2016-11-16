@@ -1,0 +1,4 @@
+concours photo
+vainqueur = photo avec le + de like
+faut demander aux users ses photos
+remettre les likes des photos à 0 (prendre une image et modifier legerement son url)
