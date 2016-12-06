@@ -1,0 +1,8 @@
+#participate {
+    float: right;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+#navbar, .container-fluid {
+    padding: 0 !important;
+}
