@@ -13,8 +13,32 @@
     background-size: cover;
 }
 
-#envoiparticipation
+.image-transfert
+{
+	cursor: pointer;
+}
+#envoi-participation
 {
 	margin-top: 10px;
+}
+
+.ecartement h2,.ecartement button
+{
+	margin-left: 30px;
+}
+
+body
+{
+	overflow: hidden;
+}
+
+.modal-body img
+{
+	width: 100%;
+}
+
+.modal-footer
+{
 	text-align: center;
 }
+
