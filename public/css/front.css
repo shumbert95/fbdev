@@ -12,21 +12,13 @@
 .btn-border {
     border: 1px solid #3D3D3D !important;
 }
-.btn-see-more {
-
-}
-.navbar-inverse {
-    background-color: #3D3D3D !important;
-    border-color: #3D3D3D !important;
+button {
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
 }
 .navbar {
     -webkit-border-radius: 0 !important;
     -moz-border-radius: 0 !important;
     border-radius: 0 !important;
-}
-button {
-    -webkit-border-radius: 0 !important;
-    -moz-border-radius: 0 !important;
-    border-radius: 0 !important;
-    border: 1px solid #3D3D3D !important;
 }
